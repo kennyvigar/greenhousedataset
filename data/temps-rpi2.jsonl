@@ -23704,3 +23704,17 @@
 {"timestamp": "2026-09-11T14:13:01.660384+00:00", "temp_c": 9.3, "temp_f": 48.7, "humidity": 77.0, "outdoor_temp_c": 6.2, "outdoor_humidity": 88, "samples": 6}
 {"timestamp": "2026-09-11T14:14:01.787628+00:00", "temp_c": 9.3, "temp_f": 48.7, "humidity": 77.1, "outdoor_temp_c": 6.2, "outdoor_humidity": 88, "samples": 6}
 {"timestamp": "2026-09-11T14:15:01.905384+00:00", "temp_c": 9.3, "temp_f": 48.7, "humidity": 76.9, "outdoor_temp_c": 6.2, "outdoor_humidity": 88, "samples": 6}
+{"timestamp": "2026-09-11T14:16:02.021245+00:00", "temp_c": 9.3, "temp_f": 48.7, "humidity": 77.1, "outdoor_temp_c": 6.2, "outdoor_humidity": 88, "samples": 6}
+{"timestamp": "2026-09-11T14:17:02.139519+00:00", "temp_c": 9.3, "temp_f": 48.7, "humidity": 77.0, "outdoor_temp_c": 6.2, "outdoor_humidity": 88, "samples": 6}
+{"timestamp": "2026-09-11T14:18:02.260204+00:00", "temp_c": 9.3, "temp_f": 48.7, "humidity": 77.0, "outdoor_temp_c": 6.2, "outdoor_humidity": 88, "samples": 6}
+{"timestamp": "2026-09-11T14:19:02.384999+00:00", "temp_c": 9.3, "temp_f": 48.7, "humidity": 77.0, "outdoor_temp_c": 6.2, "outdoor_humidity": 88, "samples": 6}
+{"timestamp": "2026-09-11T14:20:02.501535+00:00", "temp_c": 9.3, "temp_f": 48.7, "humidity": 77.1, "outdoor_temp_c": 6.7, "outdoor_humidity": 87, "samples": 6}
+{"timestamp": "2026-09-11T14:21:02.627629+00:00", "temp_c": 9.3, "temp_f": 48.8, "humidity": 77.1, "outdoor_temp_c": 6.7, "outdoor_humidity": 87, "samples": 6}
+{"timestamp": "2026-09-11T14:22:02.746342+00:00", "temp_c": 9.3, "temp_f": 48.7, "humidity": 77.0, "outdoor_temp_c": 6.7, "outdoor_humidity": 87, "samples": 6}
+{"timestamp": "2026-09-11T14:23:02.862680+00:00", "temp_c": 9.4, "temp_f": 48.8, "humidity": 77.0, "outdoor_temp_c": 6.7, "outdoor_humidity": 87, "samples": 6}
+{"timestamp": "2026-09-11T14:24:02.980085+00:00", "temp_c": 9.4, "temp_f": 48.9, "humidity": 77.0, "outdoor_temp_c": 6.7, "outdoor_humidity": 87, "samples": 6}
+{"timestamp": "2026-09-11T14:25:03.096284+00:00", "temp_c": 9.4, "temp_f": 48.9, "humidity": 77.0, "outdoor_temp_c": 6.7, "outdoor_humidity": 87, "samples": 6}
+{"timestamp": "2026-09-11T14:26:03.213256+00:00", "temp_c": 9.4, "temp_f": 48.9, "humidity": 76.9, "outdoor_temp_c": 6.7, "outdoor_humidity": 87, "samples": 6}
+{"timestamp": "2026-09-11T14:27:03.330497+00:00", "temp_c": 9.4, "temp_f": 49.0, "humidity": 76.9, "outdoor_temp_c": 6.7, "outdoor_humidity": 87, "samples": 6}
+{"timestamp": "2026-09-11T14:28:03.455979+00:00", "temp_c": 9.4, "temp_f": 48.9, "humidity": 76.9, "outdoor_temp_c": 6.7, "outdoor_humidity": 87, "samples": 6}
+{"timestamp": "2026-09-11T14:29:03.571238+00:00", "temp_c": 9.4, "temp_f": 48.9, "humidity": 76.9, "outdoor_temp_c": 6.7, "outdoor_humidity": 87, "samples": 6}
