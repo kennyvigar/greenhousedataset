@@ -26578,3 +26578,13 @@
 {"timestamp": "2026-09-13T14:12:43.481365+00:00", "temp_c": 5.8, "temp_f": 42.5, "humidity": 79.9, "outdoor_temp_c": 1.9, "outdoor_humidity": 95, "samples": 6}
 {"timestamp": "2026-09-13T14:13:43.597004+00:00", "temp_c": 5.8, "temp_f": 42.4, "humidity": 79.9, "outdoor_temp_c": 1.9, "outdoor_humidity": 95, "samples": 6}
 {"timestamp": "2026-09-13T14:14:43.716401+00:00", "temp_c": 5.8, "temp_f": 42.5, "humidity": 80.1, "outdoor_temp_c": 1.9, "outdoor_humidity": 95, "samples": 6}
+{"timestamp": "2026-09-13T14:15:43.837933+00:00", "temp_c": 5.8, "temp_f": 42.4, "humidity": 79.8, "outdoor_temp_c": 1.9, "outdoor_humidity": 95, "samples": 6}
+{"timestamp": "2026-09-13T14:16:43.953686+00:00", "temp_c": 5.8, "temp_f": 42.4, "humidity": 79.7, "outdoor_temp_c": 1.9, "outdoor_humidity": 95, "samples": 6}
+{"timestamp": "2026-09-13T14:17:44.074646+00:00", "temp_c": 5.8, "temp_f": 42.5, "humidity": 79.9, "outdoor_temp_c": 1.9, "outdoor_humidity": 95, "samples": 6}
+{"timestamp": "2026-09-13T14:18:44.197863+00:00", "temp_c": 6.0, "temp_f": 42.8, "humidity": 79.8, "outdoor_temp_c": 1.9, "outdoor_humidity": 95, "samples": 6}
+{"timestamp": "2026-09-13T14:19:44.314394+00:00", "temp_c": 6.0, "temp_f": 42.9, "humidity": 79.8, "outdoor_temp_c": 2.5, "outdoor_humidity": 95, "samples": 6}
+{"timestamp": "2026-09-13T14:20:44.432257+00:00", "temp_c": 6.1, "temp_f": 43.0, "humidity": 79.6, "outdoor_temp_c": 2.5, "outdoor_humidity": 95, "samples": 6}
+{"timestamp": "2026-09-13T14:21:44.547817+00:00", "temp_c": 6.1, "temp_f": 43.0, "humidity": 79.4, "outdoor_temp_c": 2.5, "outdoor_humidity": 95, "samples": 6}
+{"timestamp": "2026-09-13T14:22:44.666942+00:00", "temp_c": 6.2, "temp_f": 43.1, "humidity": 79.4, "outdoor_temp_c": 2.5, "outdoor_humidity": 95, "samples": 6}
+{"timestamp": "2026-09-13T14:23:44.783177+00:00", "temp_c": 6.2, "temp_f": 43.2, "humidity": 79.3, "outdoor_temp_c": 2.5, "outdoor_humidity": 95, "samples": 6}
+{"timestamp": "2026-09-13T14:24:44.899748+00:00", "temp_c": 6.3, "temp_f": 43.3, "humidity": 79.3, "outdoor_temp_c": 2.5, "outdoor_humidity": 95, "samples": 6}
